@@ -1,3 +1,4 @@
 Hello, Let's learn git commands.
 Learning BRANCHING and pull.
 Let's learn merge command now.
+Going to check the difference between two branches.
